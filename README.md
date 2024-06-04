@@ -1,2 +1,2 @@
 # MF_tutorial
-tutorial of MF study
+The tutorial of MF study
